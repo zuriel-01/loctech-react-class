@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-  background-color: blue;
+  background-color: rgb(255, 238, 0);
 }
  /* div{
   font-size: 600px;
